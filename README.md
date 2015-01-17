@@ -1,5 +1,7 @@
 # DropboxMaterialConcept
-An unofficial redesign of Dropbox's Android app using Google's new Material Design standards. 
+<b>Goal:</b> Envision the appearance and behavior of a refreshed Dropbox app using Google's Material Design
+
+<b>Tools:</b> Eclipse (created a skeleton demo app for screenshotting purposes) and Photoshop
 
 ![](http://i.imgur.com/Dr6JjpC.jpg)
 - Moved the old menu items into a navigation drawer and moved the app title into the action bar
