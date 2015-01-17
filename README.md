@@ -4,6 +4,8 @@
 <b>Tools:</b> Eclipse (created a skeleton demo app for screenshotting purposes) and Photoshop
 
 ![](http://i.imgur.com/Dr6JjpC.jpg)
+
+<i>Notes correspond to image above</i>
 - Moved the old menu items into a navigation drawer and moved the app title into the action bar
 - Added a floating action "create" button (see next image for button options)
 - Refreshed the list view with Material icons and a cleaner look
