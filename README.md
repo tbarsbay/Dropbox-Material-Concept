@@ -21,7 +21,7 @@ _________________
 
 _________________
 ![](http://i.imgur.com/261qNjZ.jpg)
-- Refreshed and added more brand color to the previously-bland pin entry screen
+- Refreshed and added more brand color to the somewhat bland pin entry screen
 - Enlarged the logo and keypad for easier typing
 
 _________________
