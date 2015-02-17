@@ -1,4 +1,4 @@
-# Dropbox Material Concept
+# Material Dropbox Concept
 <b>Goal:</b> Envision the appearance and behavior of a refreshed Dropbox app using Google's Material Design
 
 <b>Tools:</b> Eclipse (created a skeleton demo app for screenshotting purposes) and Photoshop
